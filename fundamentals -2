@@ -1,0 +1,5 @@
+AWS global infra:
+
+1)Region: are geographically based . Even you store data in one region , you can take backup in other resions.
+2)Points of presence:
+are elements of infra that exist outside of AWS regions. 
