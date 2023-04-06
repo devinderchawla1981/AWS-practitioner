@@ -1,5 +1,16 @@
 AWS global infra:
 
-1)Region: are geographically based . Even you store data in one region , you can take backup in other resions.
+1)Region: are geographically based . Even you store data in one region , you can take backup in other regions.
 2)Points of presence:
-are elements of infra that exist outside of AWS regions. 
+are elements of infra that exist outside of AWS regions. These elements are located in or near populated areas and specific AWS services use them to deliver content to 
+end users as quickly as possible.
+
+Edge Locations:
+used as nodes of a global content delivery network.
+Located globally at over 400 different locations.
+Allow AWS to serve content from locations closest to users.
+
+3)Availibility zones
+If we need high uptime then by taking advantage of multiple AZ within a single region we can make sure application will not go down if just one data center has a problem.
+
+
