@@ -1,0 +1,26 @@
+the practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer.
+
+A)Benefits of cloud computing
+1)Trade capital expense for variable expenses -- initial setup cost is saved
+2)Benefits from massive economies of scale -- maintainance cost is saved.Amazon will take care of maintainance
+3)Stop guessing capacity --system shrink based on demand
+4)Increase speed and agility
+5)Stop sepnding money maintaining data centers
+6)Go global in minutes
+
+B)Elasticity -- is ability to acquire resources as you need them and release when you no longer need them.
+
+C)Agility-- cloud lowers the cost of trying new ideas or new processes
+
+D)Different ways to use cloud computing--Cloud computing Models
+IaaS--we run servers in cloud as we have in our data centers.So we have complete controls on them.
+PaaS e.g. Elastic BeansStalk
+SaaS(less control)
+
+E)Deployment Models
+1)Public cloud e.g AWS
+2)On Premise Private cloud--e.g. vmware provide private cloud
+3)Hybrid-- cloud applications connected to a private data center
+
+
+
