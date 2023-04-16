@@ -1,0 +1,18 @@
+compute services:
+
+EC2--IaaS
+
+Beanstalk --PaaS
+
+Lambda 
+
+container services:
+
+ECS
+
+EKS
+
+Fargate
+
+AppRunner
+
