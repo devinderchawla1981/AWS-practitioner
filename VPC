@@ -1,2 +1,6 @@
 VPC -- cloud inside cloud
+It is considered secure as you control traffic.
+
+define your ips range in CIDR.
+
 
